@@ -1,43 +1,51 @@
-# Hi there, I'm Seif Ahmed 👋 
-
-[![Website](https://img.shields.io/website?label=MyPortfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+# Hi there, I'm Seif Ahmed 👋  
 
 ---
 
-## I'm a Web Developer using Next.js & React.js
-
-- 🚀 **React.js**: A library for building modern, component-based user interfaces.  
-- ⚡ **Next.js**: A powerful framework on top of React that provides:
-  - **Server-Side Rendering (SSR)** for better SEO & performance.  
-  - **Static Site Generation (SSG)** for fast-loading websites.  
-  - **API Routes** for simple backend functionality within the same project.  
+## 💻 About Me
+- Passionate about **Web Development** using **React.js** and **Next.js**.  
+- Skilled in both **frontend technologies** and **general-purpose programming languages**.  
+- Always learning and improving my skills to build better, faster, and modern applications.  
 
 ---
 
-### 🌱 Languages I've Learned:
+## 🚀 Technologies & Languages I Use  
 
-- **C++** → Strong foundation in problem-solving and algorithms.  
-- **Java** → Object-Oriented Programming and backend concepts.  
-- **HTML** → Structure of modern web pages.  
-- **CSS** → Styling and responsive design.  
+### 🔹 Programming Languages
+- **C++** → Strong knowledge of problem-solving, algorithms, and OOP.  
+- **Java** → Experience with object-oriented concepts, backend logic, and application design.  
+
+### 🔹 Web Development
+- **HTML5** → Crafting the structure of modern, semantic web pages.  
+- **CSS3** → Styling with focus on responsiveness, animations, and clean UI design.  
+- **React.js** → Component-based architecture for building scalable user interfaces.  
+- **Next.js** → Server-side rendering, static site generation, and full-stack features.  
 
 ---
 
-### 🛠️ Tools & Technologies:
+## 🛠️ Tools & Skills Representation  
 
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]  
+[<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />]  
+[<img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]  
+[<img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]  
+[<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]  
+[<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />]  
 
 <br />
 <br />
+<br />
 
 ---
 
-[website]: https://codestackr.com
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+## 📈 Current Focus
+- Enhancing **React.js** and **Next.js** skills to build modern web apps.  
+- Strengthening my problem-solving abilities with **C++** and **Java**.  
+- Practicing clean, responsive, and accessible **HTML/CSS** design.  
+
+---
+
+## 🌟 Goals
+- 🚀 Master advanced concepts in **Next.js**.  
+- 🏗️ Contribute to **open-source projects**.  
+- 📚 Keep expanding my knowledge in both **frontend** and **backend** technologies.  
